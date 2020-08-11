@@ -1,2 +1,2 @@
 # CBIMK-Samar
-Este es un ejemplo de como subir una pagina a github
+Este es un ejemplo : https://henrry97escolastico.github.io/CBIMK-Samar/.
